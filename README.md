@@ -31,6 +31,9 @@ a freelancer's growing client list, or on a project you refer to us. Always unde
 | [**email-reply-relay**](https://github.com/bluedragonteam/email-reply-relay) | Cloudflare Worker: signed reply addresses, Email Routing, a D1 queue and a pull API for apps that send email |
 | [**reply-triage**](https://github.com/bluedragonteam/reply-triage) | Claude-powered triage of email replies with structured output, guardrails and an evaluation set |
 | [**email-preflight**](https://github.com/bluedragonteam/email-preflight) | CLI + library: checks a sending domain (DKIM, SPF incl. the 10-lookup limit, DMARC, MX) and an email's content for spam risks before you send |
+| [**send-pacer**](https://github.com/bluedragonteam/send-pacer) | Pacing for outbound email: warm-up, rolling 24-hour limit, random gaps, time-zone sending windows, plus a CLI that previews a schedule |
+| [**sendgrid-event-kit**](https://github.com/bluedragonteam/sendgrid-event-kit) | SendGrid Event Webhook toolkit: human vs machine opens, sender blocks vs bad addresses, suppression decisions, signed-webhook verification |
+| [**email-address-check**](https://github.com/bluedragonteam/email-address-check) | Is an address worth keeping? Typos, throwaway and role inboxes, no-reply and placeholder addresses, domains that can't receive mail |
 | [**edge-visitor-log**](https://github.com/bluedragonteam/edge-visitor-log) | Privacy-friendly visitor log on Cloudflare Workers + D1: no cookies, network and location from Cloudflare, VPN / Tor / data-centre detection |
 
 Each comes from systems we run ourselves, rewritten as generic, tested tools.
