@@ -30,6 +30,7 @@ a freelancer's growing client list, or on a project you refer to us. Always unde
 | [**atlas-r2-backup**](https://github.com/bluedragonteam/atlas-r2-backup) | GitHub Action: nightly MongoDB backups that are restore-tested, age-encrypted and stored in Cloudflare R2 |
 | [**email-reply-relay**](https://github.com/bluedragonteam/email-reply-relay) | Cloudflare Worker: signed reply addresses, Email Routing, a D1 queue and a pull API for apps that send email |
 | [**reply-triage**](https://github.com/bluedragonteam/reply-triage) | Claude-powered triage of email replies with structured output, guardrails and an evaluation set |
+| [**email-preflight**](https://github.com/bluedragonteam/email-preflight) | CLI + library: checks a sending domain (DKIM, SPF incl. the 10-lookup limit, DMARC, MX) and an email's content for spam risks before you send |
 | [**edge-visitor-log**](https://github.com/bluedragonteam/edge-visitor-log) | Privacy-friendly visitor log on Cloudflare Workers + D1: no cookies, network and location from Cloudflare, VPN / Tor / data-centre detection |
 
 Each comes from systems we run ourselves, rewritten as generic, tested tools.
