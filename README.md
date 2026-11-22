@@ -41,5 +41,10 @@ Each comes from systems we run ourselves, rewritten as generic, tested tools.
 
 ### Stack we use day to day
 
-`TypeScript` `JavaScript` `Python` `PHP` · `React` `Vue` `Angular` · `Node.js` `Express` `Laravel` ·
-`MongoDB` · `Claude API` · `Cloudflare Workers` `Docker` `GitHub Actions`
+| | |
+|---|---|
+| **Front end** | `React` `Next.js` `Vue` `Angular` `TypeScript` `Tailwind CSS` |
+| **Back end** | `Node.js` `Express` `Python` `FastAPI` `Django` `Flask` `PHP` `Laravel` |
+| **Data** | `PostgreSQL` `MySQL` `MongoDB` `Redis` |
+| **AI** | `OpenAI API` `Claude API` `LangChain` `RAG` `Vector databases` `Agents` |
+| **Cloud & DevOps** | `AWS` `Google Cloud` `Azure` `Cloudflare` `Docker` `Kubernetes` `Terraform` `GitHub Actions` |
